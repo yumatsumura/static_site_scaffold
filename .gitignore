@@ -1,0 +1,33 @@
+.DS_Store
+node_modules
+npm-debug.log
+.tmp
+.publish
+git_find_big.sh
+
+# Extensions to ignore
+*.log
+
+# OS or editor files
+.DS_Store
+.idea/
+Thumbs.db
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Sass
+.sass-cache/
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# grunt-ftp-deploy
+.ftppass
+
+# Excluding files from project
+.tmp/
+_doc
+manifest.yml
